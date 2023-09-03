@@ -1,0 +1,10 @@
+.usersDiv {
+   width: 100%;
+   height: 100%;
+}
+
+table,  td {
+    margin: 0 auto;
+    border: 1px solid #000;
+    cursor: pointer;
+}
